@@ -1,0 +1,43 @@
+.imgclass img{
+    display: block;
+    margin: auto auto;
+    width: 400px;
+    height: 50vh;
+    text-align: center;
+}
+.name h3{
+    text-align: center;
+    /* margin: auto auto; */
+    display: block;
+}
+.job h4{
+    text-align: center;
+    margin: auto auto;
+    display: block;
+}
+.icon{
+    text-align: center;
+    margin: auto auto;
+    display: block;
+}
+.text{
+    text-align: center;
+    margin: auto auto;
+    display: block;
+}
+.icon-2{
+    text-align: center;
+    margin: auto auto;
+    display: block;
+}
+.siderleft{
+    text-align: center;
+    display: block;
+    padding: 10px;
+}
+.siderleft button{
+    margin: 10px;
+}
+.btn{
+    text-align: center;
+}
